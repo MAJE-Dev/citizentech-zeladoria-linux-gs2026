@@ -66,6 +66,7 @@ citizentech-zeladoria-linux-gs2026/
 │       ├── citizentech-agent.service              # Unit file do agente de zeladoria urbana
 │       └── citizentech-monitor.service            # Unit file do monitor resiliente de recursos
 |
+├── prompts.md
 ├── Relatorio.pdf
 ├── evidencias/
 │   └── E01_01 ... E11_01 (.png)                   # 16 capturas validadas com carimbo ISO-8601
