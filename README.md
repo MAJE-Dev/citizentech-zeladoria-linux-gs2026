@@ -65,8 +65,8 @@ citizentech-zeladoria-linux-gs2026/
 │   └── systemd/
 │       ├── citizentech-agent.service              # Unit file do agente de zeladoria urbana
 │       └── citizentech-monitor.service            # Unit file do monitor resiliente de recursos
-├── docs/
-│   └── Relatorio_Tecnico_CitizenTech_GS2026.pdf   # Relatório técnico completo (Padrão FIAP)
+|
+├── Relatorio.pdf
 ├── evidencias/
 │   └── E01_01 ... E11_01 (.png)                   # 16 capturas validadas com carimbo ISO-8601
 └── scripts/
