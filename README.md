@@ -156,4 +156,4 @@ Todas as capturas contêm carimbo temporal **ISO-8601**, identificação do host
 
 ## 🎥 Vídeo de Demonstração
 
-* **Link do Vídeo (YouTube / Drive — até 7 min):** `[https://www.youtube.com/watch?v=l1B1ddiByRU]`
+* **Link do Vídeo (YouTube / Drive — até 7 min):** [https://www.youtube.com/watch?v=l1B1ddiByRU]
