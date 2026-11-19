@@ -1,0 +1,11 @@
+$TTL 604800
+@   IN  SOA ns1.citizentechzeladoria.test. admin.citizentechzeladoria.test. (
+            2026111701 ; Serial
+            604800     ; Refresh
+            86400      ; Retry
+            2419200    ; Expire
+            604800 )   ; Negative Cache TTL
+;
+@       IN  NS  ns1.citizentechzeladoria.test.
+10  IN  PTR node.citizentechzeladoria.test.
+20  IN  PTR client.citizentechzeladoria.test.

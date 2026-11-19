@@ -1,0 +1,15 @@
+[Unit]
+Description=CitizenTech Infrastructure Resource Monitor (CPU, RAM, Disk)
+After=network.target local-fs.target citizentech-agent.service
+
+[Service]
+Type=simple
+User=GustavoYuji_RM555034
+Group=citizenops
+ExecStart=/usr/local/bin/citizentech-monitor.sh
+Restart=always
+RestartSec=3
+StartLimitIntervalSec=0
+
+[Install]
+WantedBy=multi-user.target

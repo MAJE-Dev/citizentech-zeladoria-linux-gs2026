@@ -1,0 +1,1 @@
+UUID=dac45d97-5383-4737-9365-04ba106b558f /srv/citizentech/storage ext4 defaults,nofail 0 2
